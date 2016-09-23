@@ -1,0 +1,16 @@
+@charset "utf-8";
+.buttonclass {
+	font-style: normal;
+	font-weight: bolder;
+	color: #CCC;
+	text-decoration: underline;
+	background-color: #03C;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+}
